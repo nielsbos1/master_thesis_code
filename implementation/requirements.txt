@@ -1,0 +1,5 @@
+setuptools~=60.2.0
+numpy
+pandas
+tomlkit
+matplotlib
